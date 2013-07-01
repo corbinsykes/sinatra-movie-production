@@ -30,6 +30,10 @@
     * Every ToDo task associated with a particular movie
     * Every ToDo task associated with a particular person
 
+##### *Double Bonus*
+  * Integrate with the IMDB API to pull in info about *real* movies!
+   
+
 #### Task
 * Create a Sinatra application that fulfills the needs of the user story listed above
 * The application should store information in a database
