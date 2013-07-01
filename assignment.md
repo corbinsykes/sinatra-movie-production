@@ -4,6 +4,7 @@
 
 * Refine CRUD skills
 * Integrate the use of primary keys by tying together different data
+* Implement basic CSS.
 
 #### Story
 
