@@ -1,4 +1,4 @@
-WDI_Homework 
+WDI Homework Instructions
 =================
 
 #### How To Use Git For Your Homework
