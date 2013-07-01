@@ -25,12 +25,12 @@
   * Instead, they should be able to select from a drop down box.
 * Users should have a pleasant asthetic experience. 
 
-* *Bonus*
+##### *Bonus*
   * In addition to seeing the people and movies associated with each todo, consider adding views to show: 
     * Every ToDo task associated with a particular movie
     * Every ToDo task associated with a particular person
 
-** Activity ** 
+#### Task
 * Create a Sinatra application that fulfills the needs of the user story listed above
 * The application should store information in a database
 * Create a few CSS rule, using element, class, and ID selectors
