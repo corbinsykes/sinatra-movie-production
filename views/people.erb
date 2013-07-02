@@ -1,0 +1,14 @@
+<h1>Team Members</h1>
+
+<h2>
+<ul>
+<% @people.each do |person| %>
+  <li><%= person['name'] %></li>
+<% end %>
+</ul>
+</h2>
+<br/>
+
+<a href="/people/new"><button>Add Another Person</button></a>
+
+<a href="/"><footer>Back to the Index</footer></a>

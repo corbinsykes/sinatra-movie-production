@@ -1,0 +1,14 @@
+<h1>Movies in Production</h1>
+
+<h2>
+<% @movies.each do |movie| %>
+  <ul>
+    <li><a href="/movies/<%= movie['id'] %>"><%= movie['name'] %></a></li>
+  </ul>
+<% end %>
+</h2>
+<br/>
+
+<a href="/movies/new"><button>Add Another Film</button></a>
+
+<a href="/"><footer>Back to the Index</footer></a>
